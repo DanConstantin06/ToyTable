@@ -1,0 +1,16 @@
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netstandard2.0\ToyRobotSimulator.deps.json
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netstandard2.0\ToyRobotSimulator.dll
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netstandard2.0\ref\ToyRobotSimulator.dll
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\bin\Debug\netstandard2.0\ToyRobotSimulator.pdb
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\AppShell.xaml.g.cs
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\Views\AboutPage.xaml.g.cs
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\ToyRobotSimulator.AssemblyInfoInputs.cache
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\ToyRobotSimulator.AssemblyInfo.cs
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\ToyRobotSimulator.csproj.CoreCompileInputs.cache
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\ToyRobotSimulator.dll
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\ref\ToyRobotSimulator.dll
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\ToyRobotSimulator.pdb
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\ToyRobotSimulator.csprojAssemblyReference.cache
+C:\Users\Dan\source\repos\ToyRobotSimulator\ToyRobotSimulator\obj\Debug\netstandard2.0\Views\ToyRobotPage.xaml.g.cs
